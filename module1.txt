@@ -1,0 +1,66 @@
+DISHA JAIN
+About Me
+- I am an organised, efficient and hard working person, and am
+  willing to discover and accept new ideas which can be put into
+  practice effectively. I am a good listener and learner, able to
+  communicate well with a group and on an individual level. I am able
+  to motivate and direct my talents and skills to meet objectives.
+
+Education
+- B.sc in computer science
+  Gujarat University(2023)
+  Gujarat Art and Science
+  college(GAASC)
+
+- Secondary school certificate
+  March 2017 | Sagwara
+  Springdales Sr.Sec. School
+  Higher secondary certificate
+  March 2020| Sagwara
+  Springdales Sr.Sec. School
+
+Current status
+-  masters of computer application
+   amity university
+- python certificate course
+  Tops tecnologies
+
+Software Known
+languages
+HTML
+CSS
+JavaScript
+C++
+C
+PHP
+Python
+SQL
+
+Projects
+- Social Box Foundation(SBF)
+  SBF provide user to request for donating old clothes and money
+  for needed people. We want people to donate their clothes to
+  goodwill instead of throwing them in the trash.
+
+- The project social box foundation (SBF) allow the admin to
+  handle all the activities online.
+
+- Through this project, we have not only simplified the donation
+process but also contributed towards the noble cause of
+supporting those in need. Our project has the potential to make
+a significant impact on society by encouraging more people to
+donate and support charitable causes
+
+Why you chose this career path.
+
+- Choosing a career path in Python programming is influenced by various factors that make Python an attractive option for many developers. Here are some of the reasons why one might choose a Python career path:
+
+- Versatility and General-Purpose Use:
+-Ease of Learning and Readability:
+-Strong Community and Ecosystem:
+-High Demand in the Job Market:
+-Relevance in Emerging Technologies:
+-Flexibility and Speed of Development:
+-Support for Automation and Scripting:
+-Integration Capabilities:
+-Community Contributions and Open Source:
